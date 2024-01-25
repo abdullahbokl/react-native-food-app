@@ -6,6 +6,7 @@ import { SafeAreaView } from "react-native-safe-area-context";
 import * as Icon from "react-native-feather";
 
 import AppColors from "../theme/appColors";
+import Categories from "../components/categories";
 
 export default function HomeScreen() {
   return (
@@ -40,6 +41,7 @@ export default function HomeScreen() {
         }}
       ></ScrollView>
       {/* Categories */}
+      <Categories />
     </SafeAreaView>
   );
 }
