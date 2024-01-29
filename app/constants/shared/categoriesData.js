@@ -7,7 +7,7 @@ const categoriesData = [
   {
     id: 1,
     name: "Chicken",
-    image: "https://source.unsplash.com/featured/?chicken",
+    image: "https://assets.bonappetit.com/photos/62f5674caf9bae430097be0f/1:1/w_2560%2Cc_limit/0810-no-fail-roast-chicken-v2.jpg",
   },
   {
     id: 2,
@@ -17,7 +17,7 @@ const categoriesData = [
   {
     id: 3,
     name: "Duck",
-    image: "https://source.unsplash.com/featured/?duck",
+    image: "https://assets.epicurious.com/photos/5c93f15d7903444d883ded50/16:9/w_5648,h_3177,c_limit/Crisp-Roast-Duck-19032019.jpg",
   },
   {
     id: 4,
@@ -27,7 +27,7 @@ const categoriesData = [
   {
     id: 5,
     name: "Lamb",
-    image: "https://source.unsplash.com/featured/?lamb",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVpy5FfPH6UFd4pxvl3LztcAnb7UCWER9VBA&usqp=CAU",
   },
   {
     id: 6,

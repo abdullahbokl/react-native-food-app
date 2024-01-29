@@ -8,7 +8,7 @@ export default function Categories() {
   useEffect(() => {}, []);
 
   return (
-    <View className="mt-4">
+    <View className="my-4">
       <ScrollView
         horizontal
         showsHorizontalScrollIndicator={false}
